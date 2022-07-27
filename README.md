@@ -1,3 +1,8 @@
+# To-Do-List
+
+Um projeto do processo Trainee da Empresa Júnior Orc'estra Gamificação.
+Consiste basicamente em uma lista de afazeres onde podemos marcar, editar e excluir os mesmos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
